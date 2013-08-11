@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Feed List</title>
+    </head>
+    <body>
+        <outline title="python" text="python">
+            <outline text="Daily Python-URL! (from the Secret Labs)"
+                     title="Daily Python-URL! (from the Secret Labs)"
+                     type="rss"
+                     xmlUrl="http://www.pythonware.com/daily/rssi.xml" htmlUrl="http://www.pythonware.com/daily/"/>
+            <outline text="Planet Django" title="Planet Django"
+                     type="rss"
+                     xmlUrl="http://feeds.feedburner.com/planetdjango" htmlUrl="http://planetdjango.org/"/>
+        </outline>
+        <outline text="Rasmus Toys Page" title="Rasmus Toys Page"
+                 type="rss"
+                 xmlUrl="http://toys.lerdorf.com/feeds/index.rss2" htmlUrl="http://toys.lerdorf.com/"/>
+        <outline text="Yahoo! Developer Network blog"
+                 title="Yahoo! Developer Network blog" type="rss"
+                 xmlUrl="http://developer.yahoo.net/blog/index.xml" htmlUrl="http://developer.yahoo.com/blogs/ydn"/>
+    </body>
+</opml>

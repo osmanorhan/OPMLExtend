@@ -1,0 +1,9 @@
+OPML EXTEND is basic PHP class that improve your Google Reader or other rss subscriptions.
+This class list your subscription, detect inactive or moved subscriptions and remove/update these feeds.
+
+There is an online example in example/ folder.
+
+In addition, there is an CLI tool.
+CLI usage:
+php cl.php -f subscription.xml
+
